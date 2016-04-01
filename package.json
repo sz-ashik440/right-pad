@@ -1,0 +1,19 @@
+{
+  "name": "right-pad",
+  "version": "0.0.1",
+  "description": "This will make right padding for string",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sz-ashik440/right-pad.git"
+  },
+  "author": "sz-ashik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sz-ashik440/right-pad/issues"
+  },
+  "homepage": "https://github.com/sz-ashik440/right-pad#readme"
+}
